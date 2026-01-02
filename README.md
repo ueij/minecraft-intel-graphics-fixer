@@ -22,7 +22,7 @@ This tool patches your **Vanilla** Minecraft jar files to fix the OpenGL context
 2.  **Extract** the folder.
 3.  Double-click `intel-fix.bat` (Windows).
 4.  **Select the version** you want to fix (e.g., `1.7.10`).
-    *   *Note: You must have launched the Vanilla version at least once so the jar exists.*
+    *   *Note: You must have launched the Vanilla version at least once so the `.jar` exists.*
 5.  The tool will create a new version in your launcher called (e.g. `1.7.10-fixed`).
 6.  **Play!** Select the custom version in your launcher.
 
@@ -41,7 +41,7 @@ This tool patches your **Vanilla** Minecraft jar files to fix the OpenGL context
     </td>
     <td>
        <img src="screenshots/1.0-fixed.png" alt="1.0 Fixed" width="100%">
-       <p align="center"><b>Tested on Release 1.0 (SKlauncher)</b></p>
+       <p align="center"><b>Release 1.0 (SKlauncher)</b></p>
     </td>
   </tr>
 </table>
