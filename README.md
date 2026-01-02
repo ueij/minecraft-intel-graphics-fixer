@@ -13,8 +13,8 @@ If you try to play Minecraft versions **Release 1.0 through 1.7.10** on Intel Gr
 
 ## The Solution
 This tool patches your **Vanilla** Minecraft jar files to fix the OpenGL context issue (`glActiveTexture` vs `glClientActiveTexture` desync).
-*   **No mods required:** You don't need Forge, Fabric, or Prism Launcher.
-*   **Vanilla compatible:** Works with the Official Minecraft Launcher and SKLauncher. Though I'm sure Prism/MultiMC has an "Add to Minecraft.jar" option.
+*   **No mods required:** You don't need Forge or Fabric.
+*   **Vanilla compatible:** Works with the Official Minecraft Launcher and SKlauncher. Though I'm sure Prism/MultiMC has an "Add to Minecraft.jar" option.
 *   **Tiny:** The entire patcher is <100KB.
 
 ## How to Use
