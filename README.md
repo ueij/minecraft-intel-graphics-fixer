@@ -41,7 +41,7 @@ This tool patches your **Vanilla** Minecraft jar files to fix the OpenGL context
     </td>
     <td>
        <img src="screenshots/1.0-fixed.png" alt="1.0 Fixed" width="100%">
-       <p align="center"><b>Tested on Release 1.0 (SKLauncher)</b></p>
+       <p align="center"><b>Tested on Release 1.0 (SKlauncher)</b></p>
     </td>
   </tr>
 </table>
