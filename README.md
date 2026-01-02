@@ -26,7 +26,7 @@ This tool patches your **Vanilla** Minecraft jar files to fix the OpenGL context
 5.  The tool will create a new version in your launcher called (e.g. `1.7.10-fixed`).
 6.  **Play!** Select the custom version in your launcher.
 
-<h2>Screenshots</h2>
+<h2>Comparison</h2>
 
 <!-- 1.0 Comparison -->
 <table>
