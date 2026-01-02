@@ -18,7 +18,7 @@ This tool patches your **Vanilla** Minecraft jar files to fix the OpenGL context
 *   **Tiny:** The entire patcher is <100KB.
 
 ## How to Use
-1.  **Download** the latest `.zip` from the [Releases] tab.
+1.  **Download** the latest `.zip`.
 2.  **Extract** the folder.
 3.  Double-click `intel-fix.bat` (Windows).
 4.  **Select the version** you want to fix (e.g., `1.7.10`).
