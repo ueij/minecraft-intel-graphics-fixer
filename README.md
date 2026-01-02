@@ -1,4 +1,4 @@
-# Minecraft Legacy Intel Patcher (1.0 - 1.7.10)
+# Minecraft Legacy Intel Graphics Fixer (1.0 - 1.7.10)
 
 A lightweight, standalone tool to fix the notorious "inventory rendering" bug on modern Intel Graphics drivers.
 
